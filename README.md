@@ -2,9 +2,9 @@
 
 > Schema validation for ENV variables — fail at boot, not in production.
 
-[![Build Status](https://github.com/yourusername/env_contract/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/env_contract/actions)
+[![Build Status](https://github.com/nenni1011/env_contract/actions/workflows/ci.yml/badge.svg)](https://github.com/nenni1011/env_contract/actions)
 [![Gem Version](https://badge.fury.io/rb/env_contract.svg)](https://badge.fury.io/rb/env_contract)
-[![Coverage](https://codecov.io/gh/yourusername/env_contract/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/env_contract)
+[![Coverage](https://codecov.io/gh/nenni1011/env_contract/branch/main/graph/badge.svg)](https://codecov.io/gh/nenni1011/env_contract)
 [![Ruby Version](https://img.shields.io/badge/ruby-%3E%3D%203.0-red)](https://www.ruby-lang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -751,7 +751,7 @@ Contributions, bug reports, and feature requests are welcome.
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/env_contract.git
+git clone https://github.com/nenni1011/env_contract.git
 cd env_contract
 bundle install
 ```
